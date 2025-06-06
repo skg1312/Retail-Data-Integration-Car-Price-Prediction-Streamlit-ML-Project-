@@ -81,8 +81,8 @@ python generate_csvs.py
 ### **5. Run Data Analysis Scripts**
 You can run any of the assignment scripts independently, e.g.:
 ```bash
-python Q1_DataCleaningandMerging.py
-python Q2_DataConcatenation.py
+python DataCleaningandMerging.py
+python DataConcatenation.py
 # ...and so on
 ```
 
