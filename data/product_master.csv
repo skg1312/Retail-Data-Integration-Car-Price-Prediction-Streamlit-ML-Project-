@@ -1,0 +1,6 @@
+product_id,product_name,category,price,stock
+P100,Apple Juice,Beverage,,50.0
+P101,Chocolate Cookies,Snacks,,20.0
+P102,Orange Soda,Beverage,60.0,
+P103,Chips,Snacks,30.0,
+P104,Energy Bar,Health,,40.0
